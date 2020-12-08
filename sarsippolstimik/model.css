@@ -1,0 +1,15 @@
+.align{
+	text-align: justify;
+	text-justify:inter-word;
+}
+.pinggir{
+	margin: 10px;
+}
+#gradient2{
+	background-image: linear-gradient(to right, #FFFFFF, #32CD32 );
+}
+.gambar img{
+	 max-width:100%;
+    /*width:100%;*/
+    height: auto;
+}
